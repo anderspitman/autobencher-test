@@ -6,5 +6,5 @@
     "environment_type": "conda",
     "env_dir": ".asv/env",
     "results_dir": ".asv/results",
-    "html_dir": ".asv/html",
+    "html_dir": ".asv/html"
 }
