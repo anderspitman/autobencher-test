@@ -3,5 +3,5 @@
     "project": "project",
     "project_url": "http://project-homepage.org/",
     "repo": ".",
-    "environment_type": "conda",
+    "environment_type": "conda"
 }
