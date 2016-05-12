@@ -4,6 +4,3 @@ def func():
 
 def dummy():
     pass
-
-def dummy2():
-    pass
