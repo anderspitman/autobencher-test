@@ -7,6 +7,3 @@ def dummy():
 
 def dummy2():
     pass
-
-def dummy3():
-    pass
