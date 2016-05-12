@@ -4,3 +4,9 @@ def func():
 
 def dummy():
     pass
+
+def dummy2():
+    pass
+
+def dummy3():
+    pass
