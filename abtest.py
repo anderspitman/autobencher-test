@@ -1,11 +1,18 @@
 def func1():
-    for i in range(100):
-        pass
+    x = 0
+    for i in range(10000):
+        x += i
+    return x
+
     
 def func2():
-    for i in range(1000):
-        pass
+    x = 0
+    for i in range(100000):
+        x += i
+    return x
 
 def func3():
-    for i in range(10000):
-        pass
+    x = 0
+    for i in range(1000000):
+        x += i
+    return x
