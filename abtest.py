@@ -3,7 +3,7 @@ def func1():
         pass
     
 def func2():
-    for i in range(2000):
+    for i in range(1000):
         pass
 
 def func3():
