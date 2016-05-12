@@ -5,7 +5,7 @@ from dummy import *
 
 class TimeSuite:
     def time_a(self):
-        for i in range(100):
+        for i in range(200):
             pass
 
     def time_b(self):
