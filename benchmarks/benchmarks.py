@@ -5,10 +5,10 @@ from abtest import func1, func2, func3
 
 class TimeSuite:
     def time_func1(self):
-        dummy.func1()
+        func1()
 
     def time_func2(self):
-        dummy.func2()
+        func2()
 
     def time_func3(self):
-        dummy.func3()
+        func3()
