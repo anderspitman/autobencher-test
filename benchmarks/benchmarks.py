@@ -5,4 +5,10 @@ from dummy import *
 
 class TimeSuite:
     def time_a(self):
-        func()
+        func1()
+
+    def time_b(self):
+        func2()
+
+    def time_c(self):
+        func3()
