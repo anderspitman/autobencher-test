@@ -13,5 +13,5 @@ class TimeSuite:
             pass
 
     def time_c(self):
-        for i in range(10000):
+        for i in range(100000):
             pass
