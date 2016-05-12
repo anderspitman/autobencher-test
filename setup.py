@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='dummy',
+setup(name='abtest',
       version='1.0',
-      py_modules=['dummy'],
+      py_modules=['abtest'],
       )

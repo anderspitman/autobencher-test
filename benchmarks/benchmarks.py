@@ -1,17 +1,14 @@
 # Write the benchmarking functions here.
 # See "Writing benchmarks" in the asv docs for more information.
 
-from dummy import *
+from abtest import func1, func2, func3
 
 class TimeSuite:
-    def time_a(self):
-        for i in range(100):
-            pass
+    def time_func1(self):
+        dummy.func1()
 
-    def time_b(self):
-        for i in range(1000):
-            pass
+    def time_func2(self):
+        dummy.func2()
 
-    def time_c(self):
-        for i in range(100000):
-            pass
+    def time_func3(self):
+        dummy.func3()
