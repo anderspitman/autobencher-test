@@ -5,4 +5,13 @@ from dummy import *
 
 class TimeSuite:
     def time_a(self):
-        func()
+        for i in range(100):
+            pass
+
+    def time_b(self):
+        for i in range(1000):
+            pass
+
+    def time_c(self):
+        for i in range(100000):
+            pass

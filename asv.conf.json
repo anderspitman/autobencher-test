@@ -3,5 +3,9 @@
     "project": "project",
     "project_url": "http://project-homepage.org/",
     "repo": ".",
-    "environment_type": "conda"
+    "environment_type": "conda",
+    "pythons": [
+      "3.5",
+      "3.4"
+    ]
 }
