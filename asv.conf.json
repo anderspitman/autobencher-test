@@ -2,13 +2,6 @@
     "version": 1,
     "project": "project",
     "project_url": "http://project-homepage.org/",
-    "repo": "https://github.com/anderspitman/autobencher-test.git",
-    "branches": [
-      "dummy-branch9"
-    ],
-    "environment_type": "conda",
-    "pythons": [
-      "3.5",
-      "3.4"
-    ]
+    "repo": ".",
+    "environment_type": "conda"
 }
